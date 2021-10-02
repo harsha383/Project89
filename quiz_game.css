@@ -1,0 +1,36 @@
+body {
+    background-image: url(Background.jfif);
+    background-position: center;
+    background-size: cover;
+    vertical-align: middle;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.login_div1, .login_div2 {
+    background: wheat;
+    padding: 0px;
+    float: none;
+    border-radius: 15px;
+    width: 320px;
+    color: black;
+}
+h3 {
+    color: rgb(247, 208, 208);
+    background-color: red;
+    border-top-width: 2px;
+    border-style: solid;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-color: red;
+    font-weight: bolder;
+}
+.head {
+    background-color: darkslateblue;
+    color: violet;
+    text-decoration-style: double;
+    text-decoration-line: underline;
+    text-decoration-color: deeppink;
+    padding-top: 1px;
+    padding-bottom: 4px;
+}
